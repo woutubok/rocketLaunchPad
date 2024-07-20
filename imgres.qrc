@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>res/analytics_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>res/bigtop_updates_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>res/destruction_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>res/earthquake_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>res/flight_takeoff_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>res/location_on_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>res/map.png</file>
+        <file>res/map_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>res/monitoring_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>res/more_horiz_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>res/my_location_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>res/public_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>res/radar_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>res/satellite_alt_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>res/schedule_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>res/settings_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>res/terminal.svg</file>
+        <file>res/timer_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>res/tune_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>res/warning_FILL0_wght400_GRAD0_opsz24.svg</file>
+    </qresource>
+</RCC>
